@@ -1,0 +1,117 @@
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">particles/number/value</th>
+<th title="Field #2">particles/number/density/enable</th>
+<th title="Field #3">particles/number/density/value_area</th>
+<th title="Field #4">particles/color/value</th>
+<th title="Field #5">particles/shape/type</th>
+<th title="Field #6">particles/shape/stroke/width</th>
+<th title="Field #7">particles/shape/stroke/color</th>
+<th title="Field #8">particles/shape/polygon/nb_sides</th>
+<th title="Field #9">particles/shape/image/src</th>
+<th title="Field #10">particles/shape/image/width</th>
+<th title="Field #11">particles/shape/image/height</th>
+<th title="Field #12">particles/opacity/value</th>
+<th title="Field #13">particles/opacity/random</th>
+<th title="Field #14">particles/opacity/anim/enable</th>
+<th title="Field #15">particles/opacity/anim/speed</th>
+<th title="Field #16">particles/opacity/anim/opacity_min</th>
+<th title="Field #17">particles/opacity/anim/sync</th>
+<th title="Field #18">particles/size/value</th>
+<th title="Field #19">particles/size/random</th>
+<th title="Field #20">particles/size/anim/enable</th>
+<th title="Field #21">particles/size/anim/speed</th>
+<th title="Field #22">particles/size/anim/size_min</th>
+<th title="Field #23">particles/size/anim/sync</th>
+<th title="Field #24">particles/line_linked/enable</th>
+<th title="Field #25">particles/line_linked/distance</th>
+<th title="Field #26">particles/line_linked/color</th>
+<th title="Field #27">particles/line_linked/opacity</th>
+<th title="Field #28">particles/line_linked/width</th>
+<th title="Field #29">particles/move/enable</th>
+<th title="Field #30">particles/move/speed</th>
+<th title="Field #31">particles/move/direction</th>
+<th title="Field #32">particles/move/random</th>
+<th title="Field #33">particles/move/straight</th>
+<th title="Field #34">particles/move/out_mode</th>
+<th title="Field #35">particles/move/bounce</th>
+<th title="Field #36">particles/move/attract/enable</th>
+<th title="Field #37">particles/move/attract/rotateX</th>
+<th title="Field #38">particles/move/attract/rotateY</th>
+<th title="Field #39">interactivity/detect_on</th>
+<th title="Field #40">interactivity/events/onhover/enable</th>
+<th title="Field #41">interactivity/events/onhover/mode</th>
+<th title="Field #42">interactivity/events/onclick/enable</th>
+<th title="Field #43">interactivity/events/onclick/mode</th>
+<th title="Field #44">interactivity/events/resize</th>
+<th title="Field #45">interactivity/modes/grab/distance</th>
+<th title="Field #46">interactivity/modes/grab/line_linked/opacity</th>
+<th title="Field #47">interactivity/modes/bubble/distance</th>
+<th title="Field #48">interactivity/modes/bubble/size</th>
+<th title="Field #49">interactivity/modes/bubble/duration</th>
+<th title="Field #50">interactivity/modes/bubble/opacity</th>
+<th title="Field #51">interactivity/modes/bubble/speed</th>
+<th title="Field #52">interactivity/modes/repulse/distance</th>
+<th title="Field #53">interactivity/modes/repulse/duration</th>
+<th title="Field #54">interactivity/modes/push/particles_nb</th>
+<th title="Field #55">interactivity/modes/remove/particles_nb</th>
+<th title="Field #56">retina_detect</th>
+</tr></thead>
+<tbody><tr>
+<td align="right">80</td>
+<td>true</td>
+<td align="right">800</td>
+<td>#ffffff</td>
+<td>circle</td>
+<td>0</td>
+<td>#000000</td>
+<td align="right">5</td>
+<td>img/github.svg</td>
+<td align="right">100</td>
+<td align="right">100</td>
+<td align="right">0.5</td>
+<td>false</td>
+<td>false</td>
+<td>1</td>
+<td align="right">0.1</td>
+<td>false</td>
+<td align="right">3</td>
+<td>true</td>
+<td>false</td>
+<td align="right">40</td>
+<td align="right">0.1</td>
+<td>false</td>
+<td>true</td>
+<td align="right">150</td>
+<td>#ffffff</td>
+<td align="right">0.4</td>
+<td>1</td>
+<td>true</td>
+<td align="right">6</td>
+<td>none</td>
+<td>false</td>
+<td>false</td>
+<td>out</td>
+<td>false</td>
+<td>false</td>
+<td align="right">600</td>
+<td align="right">1200</td>
+<td>canvas</td>
+<td>true</td>
+<td>repulse</td>
+<td>true</td>
+<td>push</td>
+<td>true</td>
+<td align="right">400</td>
+<td>1</td>
+<td align="right">400</td>
+<td align="right">40</td>
+<td align="right">2</td>
+<td align="right">8</td>
+<td align="right">3</td>
+<td align="right">200</td>
+<td align="right">0.4</td>
+<td align="right">4</td>
+<td align="right">2</td>
+<td>true</td>
+</tr>
+</tbody></table>
